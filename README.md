@@ -1,3 +1,4 @@
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/d62f60dc-2c23-4b6b-a1b8-caa38e98cba1" />
 Headline: Built a Speaker Recognition System using Python & Machine Learning
 
 Description:
