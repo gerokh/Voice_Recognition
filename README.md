@@ -1,4 +1,4 @@
-Headline: Built a Speaker Recognition System using Python & Machine Learning 🎤🚀
+Headline: Built a Speaker Recognition System using Python & Machine Learning
 
 Description:
 I'm excited to share my latest project: a Speaker Recognition System that identifies individuals from short audio clips with high accuracy!
